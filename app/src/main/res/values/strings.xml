@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ehomefordoctor</string>
+    <string name="bottom_text_msg">消息</string>
+    <string name="bottom_text_hz">患者</string>
+</resources>
